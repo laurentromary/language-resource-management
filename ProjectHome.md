@@ -1,0 +1,1 @@
+This project gathers specifications, schemas and samples associated with the various standardization projects carried out within ISO committee TC 37/SC 4.
